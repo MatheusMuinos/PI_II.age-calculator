@@ -37,7 +37,7 @@ form {
 .entradas > div {
   display: flex;
   flex-direction: column;
-  width: 120px;
+  width: 145px;
 }
 
 label {

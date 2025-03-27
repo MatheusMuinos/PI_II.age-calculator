@@ -45,7 +45,7 @@ export function anoBissexto(ano) {
     }
   
     if (valido && dataNascimento > hoje) {
-      erros.ano = 'Você veio do futuro? 🤨';
+      erros.ano = 'Dai pra frente, é so pra trás!';
       valido = false;
     }
   
